@@ -8,7 +8,8 @@ environment:
   flutter: '>=3.3.0'
 
 dependencies:
-  _flutterfire_internals: ^1.3.61
+  _flutterfire_internals:
+    path: ../_flutterfire_internals
   firebase_core: ^4.1.0
   flutter:
     sdk: flutter
